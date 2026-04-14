@@ -1,50 +1,111 @@
-# Olá, eu sou o Arthur 👋
-
-> Estudante de 20 anos de João Pessoa — PB | Aprendendo a criar coisas que funcionam de verdade.
-
-![estudante](https://img.shields.io/badge/status-estudante-7F77DD?style=flat-square)
-![cidade](https://img.shields.io/badge/cidade-João%20Pessoa%2C%20BR-1D9E75?style=flat-square)
-![idade](https://img.shields.io/badge/idade-20%20anos-BA7517?style=flat-square)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=200&section=header&text=Arthur%20Gomes&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 ---
 
-## Sobre mim
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Backend+Developer+em+Formação;Python+%7C+Flask+%7C+Node.js+%7C+Spring;Criando+sistemas+reais+🚀;Sempre+evoluindo+🔥"/>
+</h1>
 
-Estudante de desenvolvimento, explorando o universo full-stack aos poucos. Estou aprendendo **React** pra interfaces, **Flask** pra back-end com Python, e **Spring** pra entender o mundo Java. Cada projeto é uma aula nova.
+---
 
-```python
-arthur = {
-    "nome":   "Arthur",
-    "cidade": "João Pessoa — PB 🌊",
-    "stack":  ["Flask", "React", "Spring"],
-    "status": "estudando e evoluindo",
-    "hobby":  "codar às 2h da manhã",
-}
+## 👨‍💻 Sobre mim
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```yaml
+Nome: Arthur Gomes
+Idade: 20 anos
+Local: João Pessoa - PB 🇧🇷
+Curso: Análise e Desenvolvimento de Sistemas
+Faculdade: UNINASSAU
+Foco: Backend Developer
+Status: Evoluindo todos os dias 🚀
 ```
 
 ---
 
-## 🌱 Aprendendo agora
-
-| Tecnologia | Área | Linguagem |
-|---|---|---|
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | Backend | Python |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | Frontend | JavaScript |
-| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | Backend | Java |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Linguagem | — |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Linguagem | — |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Linguagem | — |
-
----
-
-## 📬 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
-
----
+## 🚀 Tecnologias
 
 <p align="center">
-  <i>⌐■-■ feito com café e código · João Pessoa, PB</i>
+
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,java,spring,git,github,vscode&theme=dark"/>
+
 </p>
+
+---
+
+## 🔥 Streak 
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=arthuuurgb&theme=tokyonight&hide_border=true&background=0d1117"/>
+
+</div>
+
+---
+
+## ⚡ Gráfico de atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthuuurgb&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
+
+</div>
+
+---
+
+## 💻 Projetos em evolução
+
+<div align="center">
+
+🚧 Em breve projetos cada vez mais profissionais 🚧
+
+</div>
+
+---
+
+## 🎯 Objetivos
+
+* 💼 Conseguir primeira vaga como dev
+* 🚀 Criar sistemas reais e úteis
+* 📚 Evoluir no backend
+
+---
+
+## 💬 Filosofia
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://github.com/arthuuurgb">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- depois você coloca -->
+
+<!--
+<a href="SEU LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+-->
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=120&section=footer"/>
+
+<!-- ========================================= -->
+
+<!-- 🔥 FIM 🔥 -->
+
+<!-- ========================================= -->
